@@ -760,7 +760,7 @@ PassengerId,Transported
 1538_01,False
 1538_02,False
 1546_01,True
-1549_01,False
+1549_01,True
 1553_01,True
 1553_02,False
 1554_01,True
@@ -990,7 +990,7 @@ PassengerId,Transported
 2048_01,True
 2049_01,True
 2050_01,False
-2057_01,True
+2057_01,False
 2057_02,False
 2057_03,False
 2057_04,True
@@ -1194,7 +1194,7 @@ PassengerId,Transported
 2501_01,True
 2504_01,False
 2507_01,True
-2511_01,False
+2511_01,True
 2514_01,False
 2517_01,True
 2525_01,False
@@ -1527,7 +1527,7 @@ PassengerId,Transported
 3281_01,True
 3285_01,False
 3285_02,True
-3286_01,False
+3286_01,True
 3288_01,True
 3290_01,True
 3290_02,False
@@ -1664,7 +1664,7 @@ PassengerId,Transported
 3589_01,False
 3589_02,True
 3589_03,True
-3589_04,True
+3589_04,False
 3589_05,False
 3589_06,True
 3589_07,True
@@ -2134,7 +2134,7 @@ PassengerId,Transported
 4626_01,True
 4626_02,False
 4627_01,False
-4629_01,True
+4629_01,False
 4636_01,True
 4639_01,True
 4639_02,True
@@ -2157,7 +2157,7 @@ PassengerId,Transported
 4681_01,False
 4682_01,True
 4683_01,True
-4683_02,True
+4683_02,False
 4685_01,True
 4687_01,False
 4688_01,False
@@ -2508,7 +2508,7 @@ PassengerId,Transported
 5473_02,False
 5481_01,True
 5482_01,True
-5482_02,False
+5482_02,True
 5486_01,True
 5493_01,True
 5495_01,True
@@ -2768,7 +2768,7 @@ PassengerId,Transported
 6113_01,False
 6114_01,False
 6119_01,True
-6119_02,True
+6119_02,False
 6119_03,True
 6125_01,False
 6129_01,False
@@ -2859,7 +2859,7 @@ PassengerId,Transported
 6288_02,False
 6288_03,True
 6288_04,True
-6291_01,False
+6291_01,True
 6294_01,True
 6295_01,True
 6295_02,False
@@ -2911,7 +2911,7 @@ PassengerId,Transported
 6391_02,True
 6392_01,True
 6393_01,True
-6395_01,True
+6395_01,False
 6401_01,True
 6401_02,False
 6403_01,False
@@ -3267,7 +3267,7 @@ PassengerId,Transported
 7145_01,False
 7146_01,False
 7147_01,True
-7150_01,True
+7150_01,False
 7150_02,True
 7153_01,False
 7154_01,False
@@ -3556,7 +3556,7 @@ PassengerId,Transported
 7734_01,True
 7735_01,False
 7737_01,True
-7740_01,True
+7740_01,False
 7740_02,False
 7745_01,True
 7750_01,False
